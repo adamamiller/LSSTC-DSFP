@@ -151,3 +151,21 @@ Familiar elements underpin most stories: introduction, question, conflict, build
 Rip Fig 1 - don't let the audience draw their own conclusions
 
 apply storytelling to create a cohesive whole
+
+
+Perception in Visualization - Healey
+
+preattentive processing: tasks that can be completed in <250 ms
+(example - detect red circle in a group of blue); unique visual property allows the target to be identified
+
+non-unique properties (conjunction target) is more difficult to find
+
+If low-level visual system can be harnessed, it can be used to draw attention to specific aspects of the display
+
+explanation of pre-attentive processing
+  o  Feature Integration Theory (pre-attentive tasks do not scale with N, serial search does)
+  
+  o  Texton Theory -- ??
+  o  Similarity Theory –– T-N similarity and N-N similarity
+  o  Guided Search Theory –– 
+  o  Boolean Map –– all maps can only be divided in boolean fashion (first red vs. blue THEN vertical vs. horizontal)
