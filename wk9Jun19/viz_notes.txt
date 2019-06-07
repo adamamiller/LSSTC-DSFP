@@ -1,0 +1,153 @@
+VIZ talk outline
+
+I. Viz is about communication, telling a story
+
+II. Plots (group meetings, papers, slides)
+
+  o  plotting basics
+  o  plotting symbols
+  o  color (COLOR)
+  o  
+
+III.  Design (slides)
+
+
+
+
+
+
+
+
+
+Short notes on the many papers by Wong and Krzywinski:
+
+Wong 2010 - Color coding
+Color is best for categorical data
+Rip Fig 1 - 
+Hue, saturation, lightness
+Rig Fig 2 - 
+(more than 6-8 colors is nearly impossible to distinguish)
+
+Wong 2010 - Design of data figures
+graphs - perceive patterns and trends; tables - precise numbers and names
+Rip Figure 1 -- 
+hue is weak for illustrative values
+Get Table 1
+
+Wong 2010 - Salience
+The design lesson is fairly straightforward. To make something easy to find, make it stand out by varying the object's primary visual feature. For example, give the object a color, size or orientation that is substantially different from that of the other objects on the page.
+
+Rip Fig 1 - 
+?? Rip Fig 2
+
+Wong 2010 - Gestalt Principles (Part 1)
+principles proposed to explain how people organize visual information
+(visually assemble individual objects into groups)
+
+Gestalt Principles (Part 2)
+Use Figure 1 -- lesson on how we fill things in
+
+Wong 2010 - negative space
+"the lungs of good design"
+science = densely packed, overcrowded slides and posters are hard to comprehend
+Rip Fig 2
+
+Wong 2011 - Points of View
+Hue is terrible at encoding information
+Rip figure 1 and figure 2
+
+
+Wong 2011 - Typography
+sans serif for slides; serif for blocks of text and posters
+
+Wong 2011 - Color Blindness
+Fig 2 might be useful
+
+Wong 2011 - Avoiding Color
+Can be useful to avoid color as it has low impact on perception
+Rip Fig 2 
+
+Wong 2011 - Simplify to Clarify
+But the opportunity lost from including less is gained in greater emphasis on what is shown
+
+Wong 2011 - Arrows
+When arrows are added to diagrams, they are most readily interpreted as conveying change, movement or causality [best for functional relationships rather than the elements themselves]
+Rip Fig 2
+
+Wong 2011 - Layout
+layout underlies everything we do when we communicate visually
+
+Grids help to anchor content and create stability within a design. They also build consistency between slides that allows the audience to anticipate where content will appear.
+
+Rip Fig 2 ??
+
+Wong 2011 - Salience and Relevance 
+
+It is particularly important to ensure that salience aligns with relevance in visuals used for slide presentations.
+
+(put towards the beginning of presentation)
+In these situations, information transmission needs to be efficient because the audience member is expected to simultaneously listen and read. 
+
+What stands out is often taken as most important or relevant.
+
+Rip Fig 1 and Fig 2
+
+Wong 2011 - The Design Process
+For example, a subway map is a highly efficient tool for figuring out how to get from one part of a city to another. If the train information were presented in a table of stops and connections, the job of finding the shortest route between two points would still be possible but much more difficult. When designing scientific figures, it helps to develop a well-organized approach for depicting the information.
+
+Well-founded design ideas and technical execution are essential to creating professional work. Take the time to master the graphic software you depend on most. It is imperative that the creative process is not restricted by the medium. Design is an exploratory process that requires realizing what is in one mind's eye and the ability to fluidly refine the graphical characteristics as needed.
+
+Rip Fig 2?
+
+Shoresh & Wong 2012 - Data Exploration
+In exploration, the researcher suspects that regularities are present but does not know exactly what they are.
+Rip Fig 1 & Fig 2
+
+Gehlenborg & Wong 2012 - Heat maps
+Color can be unreliable
+-- not as useful as a ref for this talk
+
+Gehlenborg & Wong 2012 - Mapping quantitative data to color
+Rip figure 1
+
+Gehlenborg & Wong 2012 - Into the 3rd dimension
+Only useful for spatial data
+Occlusions and perspective really mess up 3d figures
+Rip figure 2
+
+
+Gehlenborg & Wong 2012 - Power of the Plane
+Data visualization methods such as parallel coordinate plots and scatter plots displayed in an array can be highly useful 2D visualization techniques for high-dimensional data. They represent data using location on a plane, and each has its own strength for highlighting different aspects of the data.
+
+Rip Fig 1 - parallel plots is really interesting (not something I've done before)
+
+Krzywinski 2013c - Axes, Ticks, & Grids
+
+good use provides more accurate assesment of the data
+(data-to-ink ratio high –– use least amount of ink as possible for navigational elements)
+Rip Fig 1 (different styles for axes, contours, and cluster boundaries)
+reduce nonsignificant digits in tick marks
+Rip Fig 2
+Rip Fig 3 -- better than Figure 2
+
+
+Krzywinski 2013 - Labels and callouts
+consistently place labels, use similarity to promote Gestalt principles
+Rip Fig 1
+
+Krzywinski 2013 - Elements of Style
+translate effective 
+Rip Figs 1, 2, 3
+"revise and redraw"
+
+Krzywinski 2013 - Multidimensional Data
+Rip Fig 1 - good for intro and talking about multiple dimensions
+
+Krzywinski & Cairo 2013 - Storytelling
+Familiar elements underpin most stories: introduction, question, conflict, buildup and resolution.
+
+“If your study were reported in the newspaper, what would the headline be?”
+
+Rip Fig 1 - don't let the audience draw their own conclusions
+
+apply storytelling to create a cohesive whole
