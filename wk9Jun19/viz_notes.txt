@@ -136,7 +136,7 @@ consistently place labels, use similarity to promote Gestalt principles
 Rip Fig 1
 
 Krzywinski 2013 - Elements of Style
-translate effective 
+translate effective (design section)
 Rip Figs 1, 2, 3
 "revise and redraw"
 
@@ -153,7 +153,7 @@ Rip Fig 1 - don't let the audience draw their own conclusions
 apply storytelling to create a cohesive whole
 
 
-Perception in Visualization - Healey
+Perception in Visualization - Healey (https://www.csc2.ncsu.edu/faculty/healey/PP/)
 
 preattentive processing: tasks that can be completed in <250 ms
 (example - detect red circle in a group of blue); unique visual property allows the target to be identified
@@ -169,3 +169,22 @@ explanation of pre-attentive processing
   o  Similarity Theory –– T-N similarity and N-N similarity
   o  Guided Search Theory –– 
   o  Boolean Map –– all maps can only be divided in boolean fashion (first red vs. blue THEN vertical vs. horizontal)
+
+post attentive vision –– In most cases, visualization displays are novel, and their contents cannot be committed to long-term memory. This means that studying a display may offer no assistance in searching for specific data values. In this scenario, methods that draw attention to areas of potential interest within a display (i.e., preattentive methods) would be critical in allowing viewers to rapidly and accurate explore their data.
+
+feature hierarchy –– for boundary detection, visual system prefers color over shape
+
+
+Robin Williams' 4 basic design principles
+
+Proximity, alignment, repetition and contrast
+
+design is everywhere, and it's easy to recognize "bad" but difficult to know how to transition to good
+
+PROX - Items relating to each other should be grouped closely together. When several items are in close proximity, they become one visual unit rather than several separate units. Logical connection ==> visual connection
+
+alignment - GESTALT! invisible lines can be used to connect text (center alignment is safe and feels comfortable)
+
+Repetition - unifies all parts of a design with a conscious effort
+
+Contrast - if items do not belong to the same unit, then make them different; strong contrast is dynamic and eye-catching; contrast allows a reader to instantly understand the way that information is organized
